@@ -14,7 +14,15 @@ const DEFAULT_SETTINGS = {
   requireApproval: false,
   bannedWords: ['crypto','bitcoin','forex','telegram','onlyfans','xxx','18+','invest','earn money','work from home']
 };
-
+const body_types = [
+"SUV",
+"Visureigis",
+"Krosoveris",
+"Pikapas",
+"Off-road",
+"4x4",
+"AWD"
+];
 const DEFAULT_FILTERS = () => ({
   brand: '',
   model: '',
